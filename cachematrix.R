@@ -45,3 +45,4 @@ cacheSolve <- function(x, ...) {
 ## solve(A)
 ## A1 <- makeCacheMatrix(A)
 ## cacheSolve(A1)
+## cacheSolve(A1)
